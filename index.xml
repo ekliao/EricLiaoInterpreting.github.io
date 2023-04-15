@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Liao Interpreting</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Eric Liao Interpreting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Eric Liao 2023</copyright><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Sat, 15 Apr 2023 20:33:18 +0800</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Hello, this is Eric Liao&amp;rsquo;s first Hugo site! Isn&amp;rsquo;t it nice?</description>
+    </item>
+    
+  </channel>
+</rss>
